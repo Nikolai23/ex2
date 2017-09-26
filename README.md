@@ -1,2 +1,2 @@
 # ex2
-Diffrent text ...
+Diffrent textt ..
